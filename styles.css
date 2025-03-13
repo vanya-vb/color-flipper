@@ -184,22 +184,27 @@ main {
 }
 
 
-@media(max-width: 750px) {
+@media(max-width: 900px) {
     h2 {
         font-size: 2rem;
     }
 }
 
-@media(max-width: 527px) {
+@media(max-width: 690px) {
     h2 {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 }
 
-@media(max-width: 415px) {
+@media(max-width: 410px) {
     h2 {
-        font-size: 1.2rem;
+        font-size: 0.8rem;
     }
+
+      .btn-hero {
+        font-size: 0.6rem;
+    }
+    
 }
 
 @media(max-width: 348px) {
