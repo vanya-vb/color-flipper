@@ -1,4 +1,4 @@
-#🎨 Color Flipper
+# 🎨 Color Flipper
 This project is a simple and interactive Color Flipper built with HTML, CSS, and JavaScript. It allows users to generate and display random colors with a click of a button, making it a fun and practical way to explore colors dynamically.
 
 ## 🎯 Features
