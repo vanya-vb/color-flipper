@@ -204,6 +204,11 @@ main {
 
 @media(max-width: 348px) {
     h2 {
-        font-size: 1rem;
+        font-size: 0.75rem;
     }
+
+    .btn-hero {
+        font-size: 0.6rem;
+    }
+    
 }
